@@ -1,7 +1,7 @@
 IT, Stephen King, 1969, is returned by Om Auti.
-Core Java, McGraw Hill, 2013, is returned by Viraj.
-Look Out for the Little Guy!, Scott Lang, 2023, is issued to Omi.
-Core Java, McGraw Hill, 2013, is issued to muz.
+Core Java, McGraw Hill, 2013, is returned by Virat.
+Look Out for the Little Guy!, Scott Lang, 2023, is issued to Ram.
+Core Java, McGraw Hill, 2013, is issued to Asritha.
 Python, McGraw Hill, 2019, is issued to kavya.
-core Java, McGraw hill, 2015, is issued to Kavya.
-Core Java, McGraw Hill, 2016, is issued to Kavya.
+core Java, McGraw hill, 2015, is issued to Deekshi.
+Core Java, McGraw Hill, 2016, is issued to Deekshi.
